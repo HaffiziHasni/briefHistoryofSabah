@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#title{
+  color:#77CDFF;
+  text-align:center;
+  left:50%;
+  top:5%;
+  background:linear-gradient(45deg,#002680,#0070cd);
+  border-radius:5px;
+  }
+#image{font-size:12px;
+  font-color:blue;
+  display: block;
+  border-radius:5px;
+
+    max-width: 100%;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+  background: #77CDFF;
+  
+
+  }
+#img-caption{
+  text-align:center;
+}
+p{
+  text-align:center;
+}
+
+
+</style>
+
+</head>
+<main id="main">
+  <h1 id="title">SABAH </br> Land Below The Wind</h1>
+<div id="img-div" >
+<img id="image" src="https://img.theculturetrip.com/450x/smart/wp-content/uploads/2018/03/shutterstock_433817725.jpg" alt="Mount Kinabalu"><figcaption id="img-caption">The symbol of the state of Sabah, Mount Kinabalu</figcaption></img>
+</div>
+</br>
+<div>
+<p id="tribute-info">Sabah (Malay pronunciation: [saˈbah]) is a state of Malaysia located on the northern portion of Borneo, in the region of <a href="https://en.wikipedia.org/wiki/East_Malaysia" target="_blank" id="tribute-link">East Malaysia</a></p>
+<p><strong>20,000-30,000 years ago</strong>: earliest known human settlement near <a href="http://heritageborneo.blogspot.com/2016/11/tingkayu-sabah.html"target="_blank">Tingkayu</a></p>
+<p><strong>7th Century AD</strong>: A settled community known as Vijayapura, a tributary to the Srivijaya empire</p>
+  <p><strong>9th Century AD</strong>:Po Ni, the earliest independent kingdom in Borneo, supposed to have existed.</p>
+  <p><strong>14th Century AD</strong>:Brunei and Sulu was a part of the Majapahit Empire.</p>
+  <p><strong>15th Century AD</strong>:Brunei conquest of Sabah</p>
+  <p><strong>18th Century AD</strong>:Sabah came under British North Borneo rule.</p>
+   <p><strong>20th Century AD</strong>:Japanese occupation of Borneo in World war 2.</p>
+  <p><strong>21h Century AD</strong>:Sabah is a part of Malaysia</p>
+</div>
+</main>
+
+</html>
